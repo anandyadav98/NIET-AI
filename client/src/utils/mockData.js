@@ -1,4 +1,4 @@
-export const COLLEGE_NAME = 'Demo Institute of Technology'
+export const COLLEGE_NAME = 'NIET'
 
 export const DEMO_USERS = {
   student: {
@@ -23,7 +23,7 @@ export const DEMO_USERS = {
   teacher: {
     id: 't1',
     role: 'teacher',
-    name: 'Dr. Meera Iyer',
+    name: 'Anupriya Gupta',
     email: 'meera.iyer@college.edu',
     facultyId: 'FAC-IT-012',
     department: 'Information Technology',
