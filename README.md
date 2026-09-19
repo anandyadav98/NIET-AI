@@ -1,2 +1,3 @@
 # NIET-AI
-CollegeAI: Phase 1, React + Tailwind frontend What we're building  A complete frontend shell that runs on mock data, so you can see and click through the whole product before any backend exists. 
+
+CollegeAI — A smart digital campus assistant for accessing college information, documents, notices, syllabus, and academic resources.
