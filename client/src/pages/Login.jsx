@@ -67,6 +67,15 @@ export default function Login() {
           Verify your account
         </Link>
       </p>
+      <p className="mt-6 text-center text-sm text-slate-500 dark:text-slate-400">
+  Developed by{' '}
+  <span className="font-bold text-slate-700 dark:text-slate-200">
+    Anand Yadav
+  </span>
+</p>
+<p className="text-center text-xs text-slate-400 dark:text-slate-500">
+  B.Tech Information Technology • NIET
+</p>
     </div>
   )
 }
